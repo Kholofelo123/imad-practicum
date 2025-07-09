@@ -12,5 +12,7 @@ Adding songs ![Screenshot 2025-07-09 150021](https://github.com/user-attachments
 Detailed View Screen ![Screenshot 2025-07-09 150052](https://github.com/user-attachments/assets/52af9cd1-0e4c-4c9e-8964-ac9f891611bd)
 Songs displayed after "Show all songs" button is clicked. ![Screenshot 2025-07-09 150124](https://github.com/user-attachments/assets/3264be7f-1c68-482b-8e00-5ee27945ba5a)
 The average rating is calculated with a loop after the "Show Average Rating" button is clicked ![Screenshot 2025-07-09 150206](https://github.com/user-attachments/assets/0181acdd-859f-43ca-8fcc-e61be8c74430)
+After the "Return to main screen" button is clicked ![Screenshot 2025-07-09 145501](https://github.com/user-attachments/assets/e9400eb3-d826-4abc-bd44-95cf103a109c)
+After the "Exit App" button is clicked, it goes out of the app completely. ![Screenshot 2025-07-09 150251](https://github.com/user-attachments/assets/14f55aca-9c0a-4c30-8ab6-cc3a416a72cf)
 
 
